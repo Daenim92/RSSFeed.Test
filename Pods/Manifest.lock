@@ -1,0 +1,20 @@
+PODS:
+  - FeedKit (8.0.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - FeedKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FeedKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  FeedKit: 4a78f07adf7f0a224b904014678f1de82a7ffc21
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 1e9cdb9380322564f191aca5a331bfb68e911df6
+
+COCOAPODS: 1.5.3
